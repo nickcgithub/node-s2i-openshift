@@ -1,0 +1,1 @@
+# node-s2i-openshift
